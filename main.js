@@ -7,11 +7,11 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbC8KbCDJ6GrveecJa0t");
+    window.open("https://vt.tokopedia.com/t/ZS9roVYoWVQDo-8dfHj/");
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/g/18v31sBGRk/");
+    window.open("https://vt.tokopedia.com/t/ZS9roV2gmwLCa-Wuje0/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
